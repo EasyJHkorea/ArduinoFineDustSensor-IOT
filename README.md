@@ -1,7 +1,7 @@
 # ArduinoFineDustSensor-IOT
 ###  - IOT Arduino Fine DustSensor Android Thingspeak -
 
-#### The source code provides two source and text files. 
+#### The source code provides. (Arduino file and text file) 
 
 #### First, you must proceed with the firmware update before using the ESP 8266 module.(File Attachments)
 
@@ -11,7 +11,7 @@
 
 #### Do not apply the Wi-Fi module to 5V at any time.
 
-#### Subscribe to Thinkpeak and use the server for free.
+#### Subscribe to ThinkSpeak and use the server for free.S
 
 
 ------------------------------------------
